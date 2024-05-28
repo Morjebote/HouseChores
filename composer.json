@@ -1,0 +1,20 @@
+{
+    "name": "mor/house-chores",
+    "description": "Simple app for tracking house chores for each individual in the household",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Morjebote",
+            "email": "tomislav.mor@hotmail.com"
+        }
+    ]
+}
