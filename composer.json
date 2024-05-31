@@ -3,7 +3,8 @@
     "description": "Simple app for tracking house chores for each individual in the household",
     "type": "project",
     "require": {
-        "php": ">=8.2"
+        "php": ">=8.2",
+        "scssphp/scssphp": "^1.12"
     },
     "license": "MIT",
     "autoload": {
